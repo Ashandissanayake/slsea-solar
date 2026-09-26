@@ -1,0 +1,8 @@
+.git
+node_modules
+.env
+.env.*
+!.env.example
+tests/results.json
+tests/live-*.json
+credentials*
